@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AHED-ALBALUSHI
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning at Udasity
+- 🌱 I’m currently learning at Udacity
 - 💞️ I’m looking to collaborate on Developing websites and solving some problems related to programming, as well as collaborating on some projects
 - 📫 How to reach me: Via the email shown before you ahedalblushi@gmail.com
 
